@@ -1,0 +1,9 @@
+{
+  "id":"citybuild",
+  "name":"citybuild",
+  "version":"1.0-SNAPSHOT",
+  "description":"citybuild-proxy",
+  "authors":["Amon"],
+  "dependencies":[],
+  "main":"net.xcyan.citybuild.Citybuild"
+}

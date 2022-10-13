@@ -1,0 +1,9 @@
+main: net.xcyan.citybuild.Citybuild
+name: citybuild
+version: 1.0
+
+commands:
+
+  fly:
+  glow:
+  scanner:
